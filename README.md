@@ -37,15 +37,16 @@ public class ShaliniE {
 
     String[] stack = {
         "C", "Java", "Python", "HTML", "CSS", "JavaScript",
-        "STM32CubeIDE", "S32 Design Studio", "Power BI",
-        "UART", "SPI", "ADC", "PWM", "IoT", "Blynk"
+         ,"Power BI","Embedded","GitHub"
     };
 
-    String[] currentlyLearning = {
-        "Advanced Embedded Systems",
-        "EV Hardware & Contactor Control",
-        "Machine Learning Applications"
-    };
+   String[] currentlyLearning = {
+    "Advanced Java Programming & DSA",
+    "Full Stack Web Development (MERN Basics)",
+    "REST API Development with Spring Boot",
+    "SQL & Database Optimization",
+    "Problem Solving & System Design Fundamentals"
+};
 
     String funFact = "I published a BLDC motor control paper on IEEE Xplore!";
 
