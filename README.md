@@ -1,6 +1,3 @@
-<a href="https://github.com/Shalini-E">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shalini%20E&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20ECE%20Graduate&descAlignY=62&descSize=16" />
-</a>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Embedded+Engineer+%7C+STM32+%26+NXP+MCUs;AI+%26+ML+Developer+%7C+IEEE+Published+Author;IoT+%7C+BLDC+Motor+Control+%7C+EV+Hardware;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -100,19 +97,8 @@ public class ShaliniE {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Shalini-E">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shalini-E&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Shalini's GitHub Stats"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Shalini-E">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalini-E&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
-</div>
-
----
+ 
 
 ## 🔥 Streak Stats
 
