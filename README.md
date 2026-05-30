@@ -118,7 +118,7 @@ public class ShaliniE {
 
 
 
-## 💼 Work Experience
+# 💼 Work Experience
 
 <details>
 <summary>⚡ <strong>Embedded Engineer Intern</strong> — Visaiyon Energies and Electro Motors Pvt Ltd &nbsp;|&nbsp; Dec 2025 – Present &nbsp;|&nbsp; Coimbatore, India</summary>
@@ -127,55 +127,90 @@ public class ShaliniE {
 
 > ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![NXP](https://img.shields.io/badge/NXP%20MCU-EF7B00?style=flat-square&logoColor=white) ![UART](https://img.shields.io/badge/UART-563D7C?style=flat-square&logoColor=white) ![SPI](https://img.shields.io/badge/SPI-764ABC?style=flat-square&logoColor=white) ![ADC](https://img.shields.io/badge/ADC-FF6F00?style=flat-square&logoColor=white)
 
-- 🔧 Developed embedded firmware for **STM32 and NXP microcontrollers** in an EV hardware environment
-- 📡 Implemented **UART, SPI, ADC** communication protocols and multi-sensor interfacing pipelines
-- ⚡ Gained hands-on experience in **EV hardware systems** and high-voltage contactor control logic
-- 🛠️ Collaborated with the hardware team on real-time embedded software for motor control applications
-
-</details>
-
-<details>
-<summary>🤖 <strong>AI-ML Virtual Intern</strong> — EduSkills &nbsp;|&nbsp; Jul 2024 – Sep 2024 &nbsp;|&nbsp; Remote</summary>
-
-<br/>
-
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![AI](https://img.shields.io/badge/Artificial%20Intelligence-00BCD4?style=flat-square&logoColor=white)
-
-- 🧠 Completed a structured **AI & Machine Learning** virtual internship program
-- 📊 Developed **machine learning–based solutions** for real-world problem statements
-- 💼 Built and deployed **AI-driven business applications** as part of hands-on project work
-- 📚 Strengthened theoretical foundations in supervised learning, data preprocessing, and model evaluation
-
-</details>
-
-<details>
-<summary>🌐 <strong>In-Plant Trainee — AI & IoT</strong> — Emglitz Technology &nbsp;|&nbsp; 2023 &nbsp;|&nbsp; Coimbatore, India</summary>
-
-<br/>
-
-> ![IoT](https://img.shields.io/badge/IoT-00BCD4?style=flat-square&logoColor=white) ![Sensors](https://img.shields.io/badge/Sensors-37474F?style=flat-square&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-FF6F00?style=flat-square&logoColor=white)
-
-- 🌍 Learned core **AI and IoT** concepts through hands-on lab sessions and project work
-- 📟 Worked with **IoT modules, sensors**, and real-time automation systems
-- 🔌 Gained practical experience connecting physical hardware with cloud-driven IoT platforms
-
-</details>
-
-<details>
-<summary>🌐 <strong>In-Plant Trainee — Web Development</strong> — Durga Tech &nbsp;|&nbsp; 2022 &nbsp;|&nbsp; Coimbatore, India</summary>
-
-<br/>
-
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-- 💻 Trained in **web development fundamentals** including HTML, CSS, and JavaScript
-- 🧩 Developed **mini projects** applying front-end design and form-validation techniques
-- 🎨 Learned responsive design principles and real-world browser compatibility practices
+- 🔧 Developed embedded firmware for **STM32 and NXP microcontrollers** in an EV hardware environment  
+- 📡 Implemented **UART, SPI, ADC** communication protocols and multi-sensor interfacing pipelines  
+- ⚡ Worked on **EV hardware systems** and high-voltage contactor control logic  
+- 🛠️ Collaborated with hardware team on real-time embedded software for motor control applications  
 
 </details>
 
 ---
 
+<details>
+<summary>💼 <strong>Salesforce Developer Intern</strong> — SmartBridge & SmartInternz &nbsp;|&nbsp; Nov 2023 – Dec 2024</summary>
+
+<br/>
+
+> ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![CRM](https://img.shields.io/badge/CRM-1F6FEB?style=flat-square&logoColor=white)
+
+- 🧩 Developed custom **business applications using Salesforce platform**  
+- ☁️ Worked with **CRM workflows, automation, and cloud solutions**  
+- ⚙️ Improved application functionality through enhancements and bug fixes  
+- 📊 Gained hands-on experience in **Apex, Lightning basics, and Salesforce architecture**
+
+</details>
+
+---
+
+<details>
+<summary>🔐 <strong>Cybersecurity Virtual Internship</strong> — EduSkills &nbsp;|&nbsp; Apr 2024 – Jun 2024</summary>
+
+<br/>
+
+> ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6F00?style=flat-square&logoColor=white) ![Palo Alto](https://img.shields.io/badge/Palo%20Alto%20Tools-1F6FEB?style=flat-square&logoColor=white)
+
+- 🔒 Completed structured training in **cybersecurity fundamentals**  
+- 🛡️ Learned **threat detection, security protocols, and risk management**  
+- 🔍 Gained exposure to **Palo Alto security tools and network protection concepts**  
+- 📚 Strengthened understanding of real-world security operations  
+
+</details>
+
+---
+
+<details>
+<summary>🤖 <strong>AI-ML Virtual Intern</strong> — EduSkills &nbsp;|&nbsp; Jul 2024 – Sep 2024</summary>
+
+<br/>
+
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+- 🧠 Completed AI & ML internship with hands-on project work  
+- 📊 Built ML-based solutions for real-world datasets  
+- ⚙️ Learned data preprocessing, model training, and evaluation  
+- 💡 Improved problem-solving using Python-based AI tools  
+
+</details>
+
+---
+
+<details>
+<summary>🌐 <strong>In-Plant Trainee — AI & IoT</strong> — Emglitz Technology &nbsp;|&nbsp; 2023</summary>
+
+<br/>
+
+> ![IoT](https://img.shields.io/badge/IoT-00BCD4?style=flat-square&logoColor=white)
+
+- 🌍 Worked on **IoT sensors and automation systems**  
+- 📡 Learned integration of hardware with software platforms  
+- 🔌 Built basic IoT-based monitoring and control systems  
+
+</details>
+
+---
+
+<details>
+<summary>💻 <strong>In-Plant Trainee — Web Development</strong> — Durga Tech &nbsp;|&nbsp; 2022</summary>
+
+<br/>
+
+> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- 💻 Learned HTML, CSS, JavaScript fundamentals  
+- 🎨 Built mini front-end projects and forms  
+- 📱 Understood responsive design basics  
+
+</details>
 ## 🚀 Featured Projects
 
 <div align="center">
