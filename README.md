@@ -1,8 +1,7 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Embedded+Engineer-Intern;Java+%7C+HTML+%7C+CSS+%7C+Javascript+%7C+C;Python+%7C;Power+BI+%7C;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Embedded+Engineer+Intern;ECE+Undergraduate+|+IoT+%26+AI+Enthusiast;Java+%7C+C+%7C+Python+Developer;HTML+%7C+CSS+%7C+JavaScript;Power+BI+%7C+Data+Visualization;Building+Smart+and+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
-
 <br/>
 
 <div align="center">
