@@ -121,7 +121,7 @@ public class ShaliniE {
 # 💼 Work Experience
 
 <details>
-<summary>⚡ <strong>Embedded Engineer Intern</strong> — Visaiyon Energies and Electro Motors Pvt Ltd &nbsp;|&nbsp; Dec 2025 – Present &nbsp;|&nbsp; Coimbatore, India</summary>
+<summary>⚡ <strong>Embedded Engineer Intern</strong> — Visaiyon Energies and Electro Motors Pvt Ltd &nbsp;|&nbsp; Dec 2025 – May 2026 &nbsp;|&nbsp; Coimbatore, India</summary>
 
 <br/>
 
