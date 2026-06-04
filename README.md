@@ -5,8 +5,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shalini-E&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
-  &nbsp;
   <a href="https://linkedin.com/in/shalinieswaran"><img src="https://img.shields.io/badge/LinkedIn-shalinieswaran-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="mailto:shalinieswaran19042004@gmail.com"><img src="https://img.shields.io/badge/Gmail-shalinieswaran19042004-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
